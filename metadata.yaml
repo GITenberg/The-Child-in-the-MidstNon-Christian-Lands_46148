@@ -1,0 +1,30 @@
+_repo: The-Child-in-the-MidstNon-Christian-Lands_46148
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46148-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Platt, Mary Schauffler
+    alias: Labaree, Mary Schauffler
+    birthdate: 1868
+    deathdate: 1954
+    gutenberg_agent_id: '43630'
+    url: http://www.gutenberg.org/2009/agents/43630
+description: ''
+gutenberg_issued: '2014-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46148'
+  lccn: '14013291'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church work with children'
+- !lcc 'BV'
+- !lcsh 'Missions'
+title: "The Child in the Midst\r\nA Comparative Study of Child Welfare in Christian\
+  \ and Non-Christian Lands"
+url: http://www.gutenberg.org/ebooks/46148
